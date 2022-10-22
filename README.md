@@ -1,5 +1,5 @@
 # gestr
-Mouse control by gesture
+Mouse control by gesture<br>
 A simple application enabling control over the mouse cursor by hand gesture. It relies on OpenCv employing Artificial Intelligence.
 
 <b>Requirements</b>
