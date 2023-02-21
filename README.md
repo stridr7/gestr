@@ -10,3 +10,5 @@ opencv_python==4.6.0.66 <br>
 PyAutoGUI==0.9.53 <br>
 
 Tested with Python 3.10.5
+
+Get the executable https://1drv.ms/u/s!AlAnXv4CRZFIgUNIR1qxKQsdK62t?e=GutBw3
